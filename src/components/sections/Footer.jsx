@@ -106,7 +106,7 @@ const Footer = () => {
             <Instagram />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Vikram Kumar. All rights reserved.</Copyright>
+        <Copyright>&copy; 2024 OnVTech. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
