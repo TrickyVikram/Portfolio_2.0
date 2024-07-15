@@ -94,7 +94,7 @@ const Projects = () => {
   const [toggle, setToggle] = useState("all");
   return (
     <Container id="Projects">
-      <Wrapper>
+      {/* <Wrapper>
         <Title>Projects</Title>
         <Desc
           style={{
@@ -144,7 +144,7 @@ const Projects = () => {
               <ProjectCard project={project} />
             ))}
         </CardContainer>
-      </Wrapper>
+      </Wrapper> */}
     </Container>
   );
 };
