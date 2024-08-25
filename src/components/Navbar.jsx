@@ -132,7 +132,7 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to="/" >MyPortfolio</NavLogo>
+        <NavLogo to="/" >Vikram Kumar</NavLogo>
        
 
         <MobileIcon onClick={() => setIsOpen(!isOpen)}>

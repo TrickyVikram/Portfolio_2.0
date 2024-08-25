@@ -8,6 +8,7 @@ import {
   Twitter,
 } from "@mui/icons-material";
 
+
 const FooterContainer = styled.div`
   width: 100%;
   padding: 2rem 0;
@@ -106,9 +107,11 @@ const Footer = () => {
             <Instagram />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 OnVTech. All rights reserved.</Copyright>
+
+        <Copyright>&copy; 2024 Vikram Kumar. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
+    
   );
 };
 
