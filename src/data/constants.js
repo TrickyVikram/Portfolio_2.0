@@ -187,7 +187,7 @@ export const experiences = [
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
     role: "Frontend Engineer Intern",
     company: "Neurobit",
-    date: "June 2023 - Present",
+    date: "June 2023 - July 2023",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
     skills: [
       "ReactJS",
@@ -351,7 +351,7 @@ export const projects = [
   {
     id: 1,
     title: "Vexa",
-    date: "Oct 2022 - Present",
+    date: "Oct 2022 - Nov 2022",
     description:
       "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
     image:
@@ -395,6 +395,7 @@ export const projects = [
       },
     ],
   },
+
   {
     id: 3,
     title: "Buckoid",
@@ -432,7 +433,7 @@ export const projects = [
     tags: ["React Js", "Firebase", "Firestore", "Node JS"],
     category: "web app",
     github: "https://github.com/TrickyVikram",
-    webapp: "",
+    webapp: "  ",
   },
   {
     id: 5,
