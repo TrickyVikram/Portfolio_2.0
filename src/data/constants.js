@@ -263,7 +263,7 @@ export const projects = [
 
 
   {
-    id: 9,
+    id: 1,
     title: "Scorpiafx",
     date: "Apr 2024 - May 2023",
     description:
@@ -287,28 +287,22 @@ export const projects = [
       // },
     ],
   },
+  
   {
-    id: 0,
-    title: "Face Recognition Attendance System",
-    date: "Jun 2024 - Jun 2024",
+    id: 2,
+    title: "Book Store",
+    date: "Aug 2024 - Aug 2024",
     description:
-      "smart attendance system using face recognition to automate tracking. It captures images, recognizes faces with OpenCV, and stores records in Firebase for easy access. ",
+      "The Bookstore application is built using the MERN stack  to provide a seamless user experience for browsing and purchasing books. The application features user authentication, secure routes, and responsive design, ensuring that it is accessible across different devices.",
     image:
-      "https://raw.githubusercontent.com/TrickyVikram/Face_Recognition_app/main/Resources/Modes/img.png",
-    tags: [
-      "python",
-      "opencv",
-      "face-recognition",
-      "Firebase",
-    
-    ],
-    category: "machine learning",
-    github: "https://github.com/TrickyVikram/Face_Recognition_app",
-    webapp: "https://github.com/TrickyVikram/Face_Recognition_app",
+      "https://raw.githubusercontent.com/TrickyVikram/All-img/main/sas.png",
+    tags: ["MERN"],
+    category: "web app",
+    github: "https://github.com/TrickyVikram/BookStore_2.0",
+    webapp: "",
   },
-
   {
-    id: 1,
+    id: 3,
     title: "Dashboard Visualization",
     date: "April 2024 - May 2024",
     description:
@@ -329,7 +323,7 @@ export const projects = [
 
 
   {
-    id: 3,
+    id: 4,
     title: "alculator app",
     date: "Dec 2022 - Jan 2023",
     description:
@@ -342,20 +336,26 @@ export const projects = [
     webapp: "",
   },
   
+ 
   {
-    id: 3,
-    title: "Book Store",
-    date: "Aug 2024 - Aug 2024",
+    id: 5,
+    title: "Face Recognition Attendance System",
+    date: "Jun 2024 - Jun 2024",
     description:
-      "The Bookstore application is built using the MERN stack  to provide a seamless user experience for browsing and purchasing books. The application features user authentication, secure routes, and responsive design, ensuring that it is accessible across different devices.",
+      "smart attendance system using face recognition to automate tracking. It captures images, recognizes faces with OpenCV, and stores records in Firebase for easy access. ",
     image:
-      "https://raw.githubusercontent.com/TrickyVikram/All-img/main/sas.png",
-    tags: ["MERN"],
-    category: "web app",
-    github: "https://github.com/TrickyVikram/BookStore_2.0",
-    webapp: "",
+      "https://raw.githubusercontent.com/TrickyVikram/Face_Recognition_app/main/Resources/Modes/img.png",
+    tags: [
+      "python",
+      "opencv",
+      "face-recognition",
+      "Firebase",
+    
+    ],
+    category: "machine learning",
+    github: "https://github.com/TrickyVikram/Face_Recognition_app",
+    webapp: "https://github.com/TrickyVikram/Face_Recognition_app",
   },
-
  
  
 ];
