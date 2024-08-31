@@ -165,92 +165,56 @@ export const skills = [
 ];
 
 export const experiences = [
+ 
+  
   {
-    id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "DevOps & Fullstack Engineering Intern",
-    company: "Flipr Inovations Pvt. Ltd.",
-    date: "Aug 2023 - July 2023",
-    desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+    id: 4,
+    img: "https://raw.githubusercontent.com/TrickyVikram/All-img/main/download.jpeg",
+    role: "Data visualization Intern",
+    company: "Blackcoffer",
+    date: "June 2024 - June 2024",
+    desc: 
+    "Dashboard visualization in Laravel involves using Laravel's backend capabilities to fetch data and integrate chart libraries like D3.js to create interactive, real-time visualizations.",
+
     skills: [
-      "Docker",
-      "AWS",
-      "EC2",
+     "Laravel",
+      "PHP",
+      "MySQL",
       "JavaScript",
-      "Node Js",
-      "React Js",
-    ],
-    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
-  },
-  {
-    id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-    role: "Frontend Engineer Intern",
-    company: "Neurobit",
-    date: "June 2023 - July 2023",
-    desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
-    skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Material UI",
       "HTML",
       "CSS",
-      "JavaScript",
+      "Bootstrap",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
   },
-  {
-    id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Fullstack Externship",
-    company: "Flipr",
-    date: "June 2023 - July 2023",
-    desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
-    skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Docker",
-      "AWS",
-      "MongoDB",
-    ],
-  },
-  {
-    id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-    role: "Open Source Contributor ",
-    company: "Summer of Code",
-    date: "May 2024 - July 2024",
-    desc: "Contributing to different open-source projects and learn from industry experts",
-    doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
-  },
+
+ 
   {
     id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
-    role: "Android Developer",
-    company: "MMDU GDSC",
-    date: "June 2022 - Aug 2022",
-    desc: "As an Android developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
+    img: "https://internship.aicte-india.org//images/new_logo/logo_internship_new.jpg",
+    role: "google ai ml virtual internship",
+    company: "EduSkills Foundation",
+    date: "May 2024 - June 2024",
+    desc: 
+    "I completed the Google AI/ML Virtual Internship, which was organized by EduSkills Foundation. During this internship, I learned about machine learning, deep learning, and computer vision. I worked on a project that involved building a machine learning model to classify images of different types of flowers. I used TensorFlow and Keras to build the model and trained it on a dataset of flower images. I also learned about convolutional neural networks, transfer learning, and image preprocessing techniques. This internship helped me gain practical experience in AI/ML and improve my skills in this field.",
+
     skills: [
-      "Leadership",
-      "Mobile Application Development",
-      "Kotlin",
-      "XML",
-      "Figma",
+  "python",
+  "tensorflow",
+  "machine learning",
+  "deep learning",
+  "computer vision",
     ],
+    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
   },
+
   {
     id: 4,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
-    role: "Android Developer Intern",
-    company: "Rudraksha Welffare Foundation",
+    role: "Android Developer",
+    company: "GDSC",
     date: "June 2022 - Oct 2022",
-    desc: "As an Android Developer Intern at Rudraksha Welfare Foundation from June 2022 to October 2022, I gained valuable hands-on experience in application development. During my tenure, I contributed to the development of the application's back-end cloud functions using Firebase and implemented a front-end with the MVVM structure, which was designed using Figma. I also added a one-to-one video call feature, conceptualized new features, and optimized app performance. This internship helped me enhance my skills in Android development and gave me an opportunity to work in a collaborative team environment.",
+    desc: "I worked as an Android Developer at GDSC, where I developed a mobile app for a local business. The app allows users to view products, place orders, and make payments online. I used Java and XML to build the app's frontend and Node.js and Firebase for the backend. I also worked on integrating the app with the business's existing systems and APIs. This experience helped me improve my Android development skills and gain practical experience in building real-world apps.",
     skills: [
       "Android",
       "Java",
@@ -296,158 +260,104 @@ export const education = [
 
 ];
 export const projects = [
+
+
   {
     id: 9,
-    title: "Trackify",
-    date: "Jun 2023 - Jul 2023",
+    title: "Scorpiafx",
+    date: "Apr 2024 - May 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+    "Developed ScorpiaFX, a cutting-edge trading platform for High-Frequency Trading (HFT) users, with instant funding solutions to maximize profits.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
-    tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-    ],
+      "https://raw.githubusercontent.com/TrickyVikram/scorpiafx_Dashboard/main/img/Screenshot%202024-07-14%20at%205.56.50%E2%80%AFPM.png",
+    tags: ["Laravel "," Bootstrap",
+      "Javascript and MySQ  Razorpay"],
     category: "web app",
-    github: "https://github.com/TrickyVikram",
+    github: "https://github.com/TrickyVikram/scorpiafx_Dashboard",
     webapp: "",
+    member: [
+      {
+        name: "Vikram kumar",
+        img: "https://avatars.githubusercontent.com/u/114013697?v=4",
+        linkedin: "",
+        github: "https://github.com/TrickyVikram/",
+      },
+      // {
+        
+      // },
+    ],
   },
   {
     id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
+    title: "Face Recognition Attendance System",
+    date: "Jun 2024 - Jun 2024",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "smart attendance system using face recognition to automate tracking. It captures images, recognizes faces with OpenCV, and stores records in Firebase for easy access. ",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
-    github: "https://github.com/TrickyVikram",
-    webapp: "",
-    member: [
-      {
-        // name: "Rishav Chanda",
-        // img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        // linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        // github: "https://github.com/rishavchanda/",
-      },
-      {
-        // name: "Upasana Chaudhuri",
-        // img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        // linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        // github: "https://github.com/upasana0710",
-      },
-    ],
-  },
-  {
-    id: 1,
-    title: "Vexa",
-    date: "Oct 2022 - Nov 2022",
-    description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://raw.githubusercontent.com/TrickyVikram/Face_Recognition_app/main/Resources/Modes/img.png",
     tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
+      "python",
+      "opencv",
+      "face-recognition",
+      "Firebase",
+    
     ],
-    category: "web app",
-    github: "https://github.com/TrickyVikram",
-    webapp: "",
-  },
-  {
-    id: 2,
-    title: "Brain Tumor Detection",
-    date: "Jan 2023 - Mar 2023",
-    description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
-    github: "https://github.com/TrickyVikram",
-    webapp: "",
-    member: [
-      {
-        // name: "Rishav Chanda",
-        // img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        // linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        // github: "https://github.com/rishavchanda/",
-      },
-      {
-        // name: "Upasana Chaudhuri",
-        // img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        // linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        // github: "https://github.com/upasana0710",
-      },
-    ],
+    github: "https://github.com/TrickyVikram/Face_Recognition_app",
+    webapp: "https://github.com/TrickyVikram/Face_Recognition_app",
   },
 
   {
+    id: 1,
+    title: "Dashboard Visualization",
+    date: "April 2024 - May 2024",
+    description:
+      "Dashboard visualization in Laravel involves using Laravel's backend capabilities to fetch data and integrate chart libraries like Chart.js to create interactive, real-time visualizations.",
+    image:
+      "https://raw.githubusercontent.com/TrickyVikram/Dashboard_2.0/main/7.png",
+    tags: [
+      "Laravel",
+      "Javascript",
+      "Bootstrap",
+      "D3 js",
+      "Mysql",
+    ],
+    category: "web app",
+    github: "https://github.com/TrickyVikram/Dashboard_2.0/",
+    webapp: "",
+  },
+
+
+  {
     id: 3,
-    title: "Buckoid",
-    date: "Dec 2022 - Apr 2023",
+    title: "alculator app",
+    date: "Dec 2022 - Jan 2023",
     description:
-      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
+      "A calculator app in Android Studio using Java enables basic arithmetic operations, providing a user-friendly interface for real-time calculations, built with responsive layouts and intuitive button controls.",
     image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
+      "https://raw.githubusercontent.com/TrickyVikram/All-img/main/calculator.jpeg",
+    tags: ["Java", "Android Studio", "XML"],
     category: "android app",
-    github: "https://github.com/TrickyVikram",
+    github: "https://github.com/TrickyVikram/android_app",
     webapp: "",
   },
+  
   {
-    id: 10,
-    title: "Job Finding App",
-    date: "Jun 2023 - Jul 2023",
+    id: 3,
+    title: "Book Store",
+    date: "Aug 2024 - Aug 2024",
     description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+      "The Bookstore application is built using the MERN stack  to provide a seamless user experience for browsing and purchasing books. The application features user authentication, secure routes, and responsive design, ensuring that it is accessible across different devices.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["React Native", "JavaScript", "Axios"],
-    category: "android app",
-    github: "https://github.com/TrickyVikram",
-    webapp: "",
-  },
-  {
-    id: 4,
-    title: "Whatsapp Clone",
-    date: "Jul 2022",
-    description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+      "https://raw.githubusercontent.com/TrickyVikram/All-img/main/sas.png",
+    tags: ["MERN"],
     category: "web app",
-    github: "https://github.com/TrickyVikram",
-    webapp: "  ",
-  },
-  {
-    id: 5,
-    title: "Todo Web App",
-    date: "Jun 2022",
-    description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-    image:
-      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d777261707065722e706e673f616c743d6d6564696126746f6b656e3d31743863386231372d653965332d346439662d623038662d663065656238623639",
-    tags: ["React Js", "Redux", "Material UI"],
-    category: "web app",
-    github: "https://github.com/TrickyVikram",
+    github: "https://github.com/TrickyVikram/BookStore_2.0",
     webapp: "",
   },
+
+ 
+ 
 ];
 
 
