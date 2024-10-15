@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/TrickyVikram",
   resume:
-    "https://drive.google.com/file/d/11UglqmKQ07ZRsCz5oI4zQi7nLs2Sh0NF/view?usp=sharing",
+    "https://drive.google.com/file/d/1m0SyFRDOFjMIt7rhIKfk2MXep4GnHmwm/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vikram-kumar-24698918b",
   twitter: "https://twitter.com/vikram-kumar-24698918b",
   insta: "https://www.instagram.com/vikram_17012?igsh=MWtibGQwNnU0OTJzMQ==",
